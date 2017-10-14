@@ -17,6 +17,8 @@ Git
         git remote add origin https://github.com/noumanDev/learning.git
     push to remote
         git push origin master
+    reset repo url
+        git remote set-url origin https://github.com/noumanDev/hello-world.git
         
 
 Angular
