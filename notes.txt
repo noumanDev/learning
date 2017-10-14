@@ -37,6 +37,8 @@ Angular
             ng serve
         add new component
             ng g c course (g=generate, c= component, course = name of component)
+        add new service 
+            ng g s servicename (g-generate,s-service)
             
             
 
